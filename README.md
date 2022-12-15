@@ -1,6 +1,3 @@
-# Салют!
-Меня зовут Влад, я фронтенд разработчик
-
-## Мои контакты
-[Телеграм](https://t.me/snowf1ght) — лучший способ со мной связаться  
-Почта — ko1ebayev.worx@gmail.com
+## Connect
+[Telegram](https://t.me/ko1ebayev) - preferred
+Mail — ko1ebayev.worx@gmail.com
